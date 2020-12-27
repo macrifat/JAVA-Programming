@@ -21,7 +21,7 @@ public class MaxColSum {
 				maxCol=array[row].length;
 			}
 		}
-		//System.out.println("maxCol= "+maxCol);
+		
 	 }
 	 System.out.println("maxCol= "+maxCol);
 	 
